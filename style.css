@@ -1,0 +1,33 @@
+#bg{
+	height: 200px;
+	width: 400px;
+	background-size: 400px 200px;
+	background-image: url("./backgorund.png");
+}
+p{
+	font-size: 25px;
+	padding: 10px;
+}
+a{
+	text-decoration: none;
+}
+a:visited{
+	color: blue;
+}
+a:hover{
+	color: red;
+}
+
+#lista{
+	margin: -10px;
+	margin-left: 10px;
+}
+.insta{
+	list-style-image: url("./insta.png");
+}
+.tt{
+	list-style-image: url("./Twitter.png");
+}
+.yt{
+	list-style-image: url("Youtube.png");
+}
